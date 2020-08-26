@@ -1,0 +1,2 @@
+# BigMart-Sales-Prediction
+We have 2013 sales data for 1559 products across 10 stores in different cities at BigMart.  Also, certain attributes of each product and store have been defined. In this project, I built predictive models using different machine learning algorithms and compare them based on RMSE and MAE. Using these models, we find out the sales of each product at a particular store, which will help in understanding the properties of products and stores which play a key role in increasing sales.
